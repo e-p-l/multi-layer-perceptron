@@ -27,7 +27,6 @@ This is an implementation of a Multilayer Perceptron that implements Stochastic 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * PyTorch
   ```sh
   pip3 install torch torchvision
